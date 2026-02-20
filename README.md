@@ -55,10 +55,4 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankur2853&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ankur2853&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankur2853&theme=dark&hide_border=false&layout=compact)
-
----
-
-![Profile Views](https://visitcount.itsvg.in/api?id=ankur2853&icon=0&color=0)
