@@ -1,6 +1,6 @@
 # 💫 About Me
 
-👋 Hi, I’m **Ankur** — a **backend-focused MERN Stack Developer** with **3+ years of experience** building scalable, production-ready systems.
+👋 Hi, I’m **Ankur** — a **backend-focused MERN Stack Developer** with **4+ years of experience** building scalable, production-ready systems.
 
 - 💻 Specialized in **APIs, real-time applications, and backend architecture**
 - 🚀 Worked across **Crypto, Forex, ERP, and CRM** domains
